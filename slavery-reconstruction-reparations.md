@@ -20,7 +20,7 @@
  - <a href='week2/reparations-nytimes.pdf'>What Reparations for Slavery Might Look Like in 2019</a> (5 pages)
   - Patricia Cohen, NYTimes reporter
   
-<a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a>
+<a href="week2/week2-legacy_of_slavery.zip">Download entire week's materials here (except The Case for Reparations because the file was too big)</a>
 
 
 ## Questions to ponder
