@@ -1,8 +1,3 @@
----
-layout: page
-permalink: /
----
-
 # Welcome to Lev Anti-Racism Reading Circle (LARRC)!
 
 ## What is the purpose of LARRC?
