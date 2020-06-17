@@ -37,3 +37,5 @@ A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen,
 7. [Racism and public health](./public-health)
 8. [Intersectional issues (feminism, LGBTQIA+, disability)](./intersectional-issues)
 9. [Black culture as/in American culture](./culture)
+
+### If there is an article, paper, or video that you'd like to see on the schedule, there is a suggestion form [here](https://docs.google.com/forms/d/e/1FAIpQLScyaZFA2taOfanvy3K9iDuidK9czfUFNMC8EhedSmZ_47OfoA/viewform?usp=sf_link).
