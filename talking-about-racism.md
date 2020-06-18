@@ -6,10 +6,10 @@
   - Tre Johnson, Black freelance writer
 - <a href="week1/white-allies-nytimes.pdf">Dear White People: Being an Ally Isn't Always What You Think</a> (3 pages)
   - An NYTimes article by the Associated Press
-- <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
-  - Cory Collins, non-Black senior writer at Teaching Tolerance
 - <a href="week1/invisible-knapsack-1989.pdf">Unpacking the Invisible Knapsack</a> (3 pages)
   - Peggy McIntosh, non-Black feminist, anti-racist scholar and speaker
+- <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
+  - Cory Collins, non-Black senior writer at Teaching Tolerance
 - <a href="week1/is-niceness-the-answer.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 - <a href="week1/who-gets-to-be-afraid-in-America.pdf">Who Gets to be Afraid in America?</a> (6 pages)
