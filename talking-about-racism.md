@@ -17,6 +17,7 @@
 
 <a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a>
 
+### If you have questions or specific topics you'd like to discuss on Sunday, submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSeKQQWVBaDHlc0_AemrPywtzYPRNJXBs-PCKdGe0hvdfVMqfg/viewform?usp=sf_link).
 
 ## Discussion questions
 1. What are the potential problems with reading groups about Black issues? How can reading circles (and similar groups) avoid trivializing the deeply-entrenched generational trauma of racism and stop the cycle of performative allyship?
