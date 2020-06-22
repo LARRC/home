@@ -19,7 +19,7 @@
 - Optional: Coates' well-known article <a href="week2/case-for-reparations.pdf">The Case for Reparations</a>. While the article is 50+ pages, the font is LARGE and there are many photos. Some interesting sections are:
     - Part III: "We Inherit Our Ample Patrimony" (on pg. 17 of the PDF) which gives a short history of reparations and introduces the HR-40 bill for reparations
     - Part X: "There will be 'No Reparations' from Germany" (on pg. 49 of the PDF) which compares slavery reparations efforts to Holocaust reparation efforts. 
-- Optional: <a href='week2/brookings-reparations.pdf'>Why we need reparations for Black Americans</a> (6 pages)
+- Optional: <a href='week2/brookings_reparations.pdf'>Why we need reparations for Black Americans</a> (6 pages)
    - Rashawn Ray and Andre Perry
 - Optional: <a href='week2/previous-reparations.pdf'>America Has Tried Reparations Before. Here Is How It Went.</a> (5 pages w/ photos) 
    - Adeel Hassan and Jack Healy
