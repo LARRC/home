@@ -29,7 +29,7 @@ A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen,
 ## Reading and discussion schedule
 ### Select a week to see materials and discussion questions:
 1. [Talking about racism and privilege](./talking-about-racism) (Sunday, June 21st, 4pm EDT)
-2. [Slavery, Reconstruction, and reparations](./slavery-reconstruction-reparations)
+2. [Slavery, Reconstruction, and reparations](./slavery-reconstruction-reparations) (NEW TIME: Sunday, June 28st, 7pm EDT)
 3. [Mass incarceration and the school-to-prison pipeline](./mass-incarceration)
 4. [History and current moment of police brutality](./police-brutality)
 5. [Protests, riots, and activism](./protest-riots-activism)
