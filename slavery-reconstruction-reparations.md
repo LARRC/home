@@ -21,6 +21,9 @@
    - Patricia Cohen, NYTimes reporter
 - Optional: <a href='week2/brookings-reparations.pdf'>Why we need reparations for Black Americans</a> (6 pages)
    - Rashawn Ray and Andre Perry
+- Optional: <a href='week2/previous-reparations.pdf'>America Has Tried Reparations Before. Here Is How It Went.</a> (5 pages w/ photos) 
+   - Adeel Hassan and Jack Healy
+  
   
 <a href="week2/week2-legacy_of_slavery.zip">Download entire week's materials here</a> (except The Case for Reparations because the file was too big)
 
