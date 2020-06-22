@@ -19,6 +19,8 @@
   - Eric Foner, White historian and professor
  - <a href='week2/reparations-nytimes.pdf'>What Reparations for Slavery Might Look Like in 2019</a> (5 pages)
   - Patricia Cohen, NYTimes reporter
+- Optional: <a href='week2/brookings-reparations.pdf'>Why we need reparations for Black Americans</a> (6 pages)
+  - Rashawn Ray and Andre Perry
   
 <a href="week2/week2-legacy_of_slavery.zip">Download entire week's materials here</a> (except The Case for Reparations because the file was too big)
 
