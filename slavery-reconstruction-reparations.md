@@ -16,7 +16,7 @@
    - Patricia Cohen, NYTimes reporter
 - <a href='week2/brookings_reparations.pdf'>Why we need reparations for Black Americans</a> (6 pages)
    - Rashawn Ray and Andre Perry
-- <a href="week2/wapo-article.jpg">The missing pieces of America’s education</a> (5 pages)
+- Optional: <a href="week2/wapo-article.jpg">The missing pieces of America’s education</a> (5 pages)
   - A collection of five essays by five authors (sorry this is a jpg lol the pdf was being wack)
 - Optional: Coates' well-known article <a href="week2/case-for-reparations.pdf">The Case for Reparations</a>. While the article is 50+ pages, the font is LARGE and there are many photos. Some interesting sections are:
     - Part III: "We Inherit Our Ample Patrimony" (on pg. 17 of the PDF) which gives a short history of reparations and introduces the HR-40 bill for reparations
