@@ -28,4 +28,4 @@
 <a href="week2/week2-legacy_of_slavery.zip">Download entire week's materials here</a> (except The Case for Reparations because the file was too big)
 
 
-## Questions to ponder
+## Reading-specific discussion questions doc [HERE](https://docs.google.com/document/d/1Bc5CiiIJf78agc-TCUTb7pKYL-EDAf6sBNrimB-5V-A/edit?usp=sharing): 
