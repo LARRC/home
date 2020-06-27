@@ -10,4 +10,8 @@
 
 - <a href="week3/school-to-prison.pdf">The School to Prison Pipeline, Explained </a> by Libby Nelson and Dara Lind (6 pages)
 
+- <a href="week3/four-things.pdf">Four Things We Can Do to End Mass Incarceration</a> by James Cullen (3 pages)
+
+- <a href="week3/ACLU-solutions.pdf">Solutions to Mass Incarceration</a> from the ACLU (2 pages)
+
 ## Detailed discussion question doc [HERE](): 
