@@ -3,4 +3,4 @@
 ### Click title for pdf:
 
 
-## Reading-specific discussion questions doc [HERE](): 
+## Detailed discussion question doc [HERE](): 
