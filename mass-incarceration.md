@@ -14,4 +14,4 @@
 
 - <a href="week3/ACLU-solutions.pdf">Solutions to Mass Incarceration</a> from the ACLU (2 pages)
 
-## Detailed discussion question doc [HERE](): 
+## Detailed discussion question doc [HERE](https://docs.google.com/document/d/1glp9U0ODR8jrM39TIiy2vtUC_qnDpywHtypbXKB1B9A/edit?usp=sharing): 
