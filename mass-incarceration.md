@@ -1,4 +1,4 @@
-## Materials for Week 3
+## Materials for Week 3 (Sunday, July 5th, 4pm EDT)
 # Mass Incarceration and the School-to-Prison Pipeline
 ### Click title for pdf:
 
