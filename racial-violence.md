@@ -20,7 +20,13 @@
   - <a href="https://poets.org/poem/juxtaposing-black-boy-bullet">juxtaposing the black boy & the bullet</a> by Danez Smith
   - <a href="https://poets.org/poem/bullet-was-girl">the bullet was a girl</a> by Danez Smith
  
+- Optional: <a href="">Burning of Black Wall Street</a> (9 pages)
+  - by Kimberly Fain from JSTOR
+ 
 - Optional: <a href="https://www.reuters.com/investigates/special-report/usa-police-immunity-scotus/">For cops who kill, special Supreme Court protection</a> from Reuters Investigates
   - Long article, but very interesting statistics and stories on qualified immunity
+  
+- Optional: <a href="">America as if it were another country</a> (4 pages)
+  - Wapo opinion piece that turns the perspective on the situation around...
 
 ## Detailed discussion question doc [HERE](): 
