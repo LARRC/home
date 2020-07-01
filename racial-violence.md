@@ -14,12 +14,13 @@
 - <a href="">Framing Ferguson: Fox News and the construction of US racism</a> (14 pages)
   - Very interesting read that covers Fox News' responses to the murder of Michael Brown and the following protests
 
-- <a href="">Collected poems on police brutality:</a>
+- Collected poems on police brutality:
   - <a href="https://poets.org/poem/what-dead-know-heart-0">what the dead know by heart</a> by Donte Collins
   - <a href="https://poets.org/poem/they-need-some-us-die">they need some of us to die</a> by Donte Collins
   - <a href="https://poets.org/poem/juxtaposing-black-boy-bullet">juxtaposing the black boy & the bullet</a> by Danez Smith
   - <a href="https://poets.org/poem/bullet-was-girl">the bullet was a girl</a> by Danez Smith
  
-- <a href=""></a>
+- Optional: <a href="https://www.reuters.com/investigates/special-report/usa-police-immunity-scotus/">For cops who kill, special Supreme Court protection</a> from Reuters Investigates
+  - Long article, but very interesting statistics and stories on qualified immunity
 
 ## Detailed discussion question doc [HERE](): 
