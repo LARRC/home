@@ -20,7 +20,7 @@
   - <a href="https://poets.org/poem/juxtaposing-black-boy-bullet">juxtaposing the black boy & the bullet</a> by Danez Smith
   - <a href="https://poets.org/poem/bullet-was-girl">the bullet was a girl</a> by Danez Smith
 
-- TedXTalk: <a href="https://www.youtube.com/watch?v=nyE5nI1nRJI&feature=youtu.be"> From #BlackLivesMatter to Black Liberation</a> Keeanga-Yamahtta Taylor (15 min)
+- TedXTalk: <a href="https://www.youtube.com/watch?v=nyE5nI1nRJI&feature=youtu.be"> From #BlackLivesMatter to Black Liberation</a>, Keeanga-Yamahtta Taylor (15 min)
 
 - Optional materials 
   - <a href="week4/black-wall-street.pdf">Burning of Black Wall Street</a> (9 pages, by Kimberly Fain from JSTOR)
