@@ -1,4 +1,4 @@
-## Materials for Week 4 
+## Materials for Week 4 (Sunday, July 12th, 4pm EDT)
 # Police Brutality and Racial Violence
 ### Click title for pdf:
 
