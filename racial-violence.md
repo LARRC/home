@@ -23,6 +23,7 @@
 - TedXTalk: <a href="https://www.youtube.com/watch?v=nyE5nI1nRJI&feature=youtu.be"> From #BlackLivesMatter to Black Liberation</a>, Keeanga-Yamahtta Taylor (15 min)
 
 - Optional materials 
+  - Video: <a href="https://www.youtube.com/watch?v=lx62joRN-YU">Testimony from Black Wall Street Survivor; Eldoris McCondichi</a>
   - <a href="week4/black-wall-street.pdf">Burning of Black Wall Street</a> (9 pages, by Kimberly Fain from JSTOR)
   - <a href="https://www.reuters.com/investigates/special-report/usa-police-immunity-scotus/">For cops who kill, special Supreme Court protection</a> from Reuters Investigates (Long article, but very interesting statistics and stories on qualified immunity)
   - <a href="week4/western-media.pdf">America as if it were another country</a> (4 pages, Wapo opinion piece that turns the perspective on the situation around...)
