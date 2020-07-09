@@ -2,8 +2,7 @@
 # Police Brutality and Racial Violence
 ### Click title for pdf:
 
-- <a href="week4/police-brutality.pdf">Police brutality in the United States</a> (5 pages)
-  - Entry from Encyclopedia Britannica
+- For context: <a href="week4/police-brutality.pdf">Police brutality in the United States</a> (Entry from Encyclopedia Britannica, 5 pages)
 
 - <a href="https://www.npr.org/2020/06/13/876628302/the-history-of-policing-and-race-in-the-u-s-are-deeply-intertwined">The History Of Policing And Race In The U.S. Are Deeply Intertwined</a> (4 pages or 6 min)
   - NPR article/podcast
