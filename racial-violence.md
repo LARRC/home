@@ -20,7 +20,7 @@
   - <a href="https://poets.org/poem/juxtaposing-black-boy-bullet">juxtaposing the black boy & the bullet</a> by Danez Smith
   - <a href="https://poets.org/poem/bullet-was-girl">the bullet was a girl</a> by Danez Smith
 
-- TedXTalk: <a href="https://www.youtube.com/watch?v=nyE5nI1nRJI&feature=youtu.be"> From #BlackLivesMatter to Black Liberation</a> Keeanga-Yamahtta Taylor
+- TedXTalk: <a href="https://www.youtube.com/watch?v=nyE5nI1nRJI&feature=youtu.be"> From #BlackLivesMatter to Black Liberation</a> Keeanga-Yamahtta Taylor (15 min)
 
 - Optional materials 
   - <a href="week4/black-wall-street.pdf">Burning of Black Wall Street</a> (9 pages, by Kimberly Fain from JSTOR)
@@ -28,3 +28,6 @@
   - <a href="week4/western-media.pdf">America as if it were another country</a> (4 pages, Wapo opinion piece that turns the perspective on the situation around...)
 
 ## Detailed discussion question doc [HERE](https://docs.google.com/document/d/1Ncbke-BJdQ0YB9Q7E4CZQDCYNS7sNKimJnf_-mAD_0E/edit?usp=sharing): 
+
+
+
