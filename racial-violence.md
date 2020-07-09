@@ -19,7 +19,9 @@
   - <a href="https://poets.org/poem/they-need-some-us-die">they need some of us to die</a> by Donte Collins
   - <a href="https://poets.org/poem/juxtaposing-black-boy-bullet">juxtaposing the black boy & the bullet</a> by Danez Smith
   - <a href="https://poets.org/poem/bullet-was-girl">the bullet was a girl</a> by Danez Smith
- 
+
+- TedXTalk: <a href="https://www.youtube.com/watch?v=nyE5nI1nRJI&feature=youtu.be"> From #BlackLivesMatter to Black Liberation</a> Keeanga-Yamahtta Taylor
+
 - Optional materials 
   - <a href="week4/black-wall-street.pdf">Burning of Black Wall Street</a> (9 pages, by Kimberly Fain from JSTOR)
   - <a href="https://www.reuters.com/investigates/special-report/usa-police-immunity-scotus/">For cops who kill, special Supreme Court protection</a> from Reuters Investigates (Long article, but very interesting statistics and stories on qualified immunity)
