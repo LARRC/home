@@ -12,6 +12,7 @@
 
 - <a href="week4/framing-ferguson.pdf">Framing Ferguson: Fox News and the construction of US racism</a> (14 pages)
   - Very interesting read that covers Fox News' responses to the murder of Michael Brown and the following protests
+  - For more information on the viewership of Fox News in America: <a href="https://www.pewresearch.org/fact-tank/2020/04/08/five-facts-about-fox-news/">A Pew Research Center article</a>
 
 - Collected poems on police brutality:
   - <a href="https://poets.org/poem/what-dead-know-heart-0">what the dead know by heart</a> by Donte Collins
