@@ -13,6 +13,7 @@
 
 - <a href="https://www.forbes.com/sites/rebeccabellan/2020/06/12/gen-z-leads-the-black-lives-matter-movement-on-and-off-social-media/#10ac239f19a8">Gen Z Leads The Black Lives Matter Movement, On And Off Social Media</a> (Forbes, videos in the link)
 
+- <a href="">11 Major Misconceptions About the Black Lives Matter Movement</a> (4 pages, From the BLM website)
 - Fact sheet: <a href="">198 methods of nonviolent action</a>
 
 - Optional readings:
