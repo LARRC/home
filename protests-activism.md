@@ -5,7 +5,7 @@
 - American public opinion on Black Lives Matter
   - Pew Research Center: <a href="https://www.pewsocialtrends.org/2020/06/12/amid-protests-majorities-across-racial-and-ethnic-groups-express-support-for-the-black-lives-matter-movement/">Majorities Across Racial, Ethnic Groups Express Support for the Black Lives Matter Movement</a>
   - NYTimes article: <a href="">How Public Opinion Has Moved on Black Lives Matter</a>
-  - NYTimes article: Black Lives Matter May Be the Largest Movement in U.S. History (<a href="">pdf</a>, <a href="https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html">link (better graphics)</a>)
+  - NYTimes article: Black Lives Matter May Be the Largest Movement in U.S. History (<a href="">pdf</a>, <a href="https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html">link</a>)
 
 - Protests through a historical lens
   - Video: <a href="https://www.youtube.com/watch?v=_K0BWXjJv5s">September 27, 1966: MLK — A riot is the language of the unheard</a>
