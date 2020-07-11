@@ -15,9 +15,9 @@
 
 - Fact sheet: <a href="">198 methods of nonviolent action</a>
 
-- Optional: <a href="">As big corporations say ‘black lives matter,’ their track records raise skepticism</a> (Washington Post, 6 pages)
-
-- Optional: <a href="">George Floyd protests: Why people are taking a stand
+- Optional readings:
+  - <a href="">As big corporations say ‘black lives matter,’ their track records raise skepticism</a> (Washington Post, 6 pages)
+  - <a href="">George Floyd protests: Why people are taking a stand
 </a> (long article but offers many perspectives from protestors)
 
 - <a href=""></a>
