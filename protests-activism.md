@@ -11,9 +11,12 @@
   - Video: <a href="https://www.youtube.com/watch?v=_K0BWXjJv5s">September 27, 1966: MLK — A riot is the language of the unheard</a> (4:30)
   - <a href="">King's Message of Nonviolence Has Been Distorted</a> (6 pages, The Atlantic)
 
-- <a href="https://www.forbes.com/sites/rebeccabellan/2020/06/12/gen-z-leads-the-black-lives-matter-movement-on-and-off-social-media/#10ac239f19a8">Gen Z Leads The Black Lives Matter Movement, On And Off Social Media</a> (Forbes, videos in the link)
+- Protesting today: who, what, where
+  - <a href="https://www.forbes.com/sites/rebeccabellan/2020/06/12/gen-z-leads-the-black-lives-matter-movement-on-and-off-social-media/#10ac239f19a8">Gen Z Leads The Black Lives Matter Movement, On And Off Social Media</a> (Forbes, videos in the link)
+  - <a href="https://www.sfchronicle.com/politics/article/Being-a-white-ally-of-African-Americans-means-15321365.php">Being a white ally of African Americans means more than just protesting</a> (San Francisco Chronicle)
 
 - <a href="">11 Major Misconceptions About the Black Lives Matter Movement</a> (4 pages, From the BLM website)
+
 - Fact sheet: <a href="">198 methods of nonviolent action</a>
 
 - Optional readings:
