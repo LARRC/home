@@ -32,7 +32,7 @@ A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen,
 2. [Slavery, Reconstruction, and reparations](./slavery-reconstruction-reparations) (Sunday, June 28st, 7pm EDT)
 3. [Mass incarceration and the school-to-prison pipeline](./mass-incarceration) (Sunday, July 5th, 4pm EDT)
 4. [Police brutality and racial violence](./racial-violence) (Sunday, July 12th, 4pm EDT)
-5. **[Protests and activism](./protests-activism)**
+5. **[Protests and activism](./protests-activism) (Sunday, July 19th, 4pm EDT)**
 6. [Economic and educational disparities](./economic-educational)
 7. [Racism and public health](./public-health)
 8. [Intersectional issues (feminism, LGBTQIA+, disability)](./intersectional-issues)
