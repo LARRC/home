@@ -20,6 +20,6 @@
 - <a href=""></a>
 - <a href=""></a>
 
-## Detailed discussion question doc [HERE](): 
+## Detailed discussion question doc [HERE](https://docs.google.com/document/d/1TdS8_imyBg4qw1W1u_eMtGpB4Uc6zJG7hTBhhEM9_uM/edit?usp=sharing): 
 
 
