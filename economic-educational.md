@@ -1,6 +1,5 @@
 ## Materials for Week 6 (Sunday, July 26th, 4pm EDT)
 # Economic and educational disparities
-### Click title for pdf:
 
 - Economic
   - NYTimes: <a href="week6/america-needs-repairs-nytimes.pdf">Opinion | How Can We Fix Income and Wealth Inequality in America?</a> (5 pages)
