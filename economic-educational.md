@@ -5,7 +5,8 @@
 - Economic
   - 
   - Capitalism specifically
-    - <a href="">Angela Davis: We can't eradicate racism without eradicating racial capitalism</a>
+   - <a href="">Angela Davis: We can't eradicate racism without eradicating racial capitalism</a>
+    
 - Educational
   - <a href=""></a>
 
