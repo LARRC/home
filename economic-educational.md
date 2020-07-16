@@ -3,14 +3,15 @@
 ### Click title for pdf:
 
 - Economic
-  - <a href=""></a>
-
+  - 
+  - Capitalism specifically
+    - <a href="">Angela Davis: We can't eradicate racism without eradicating racial capitalism</a>
 - Educational
   - <a href=""></a>
 
-- <a href=""></a>
+- <a href="">Systematic Inequality and Economic Opportunity</a>
 
-- <a href=""></a>
+- <a href="">Is capitalism racist?</a>
 
 - <a href=""></a>
 
