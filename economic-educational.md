@@ -14,7 +14,9 @@
     
 - Educational
   - The Seattle Times: <a href="week6/racism-ed-seattle.pdf">To understand structural racism, look to our schools</a> (8 pages)
+  
   - Inside Higher Ed: <a href="https://www.insidehighered.com/views/2020/07/02/actions-higher-ed-institutions-should-take-help-eradicate-racism-opinion">Actions higher ed institutions should take to help eradicate racism (opinion)</a> (4 pages)
+  
   - NPR: <a href="https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/07/07/888469809/how-funding-model-preserves-racial-segregation-in-public-schools">How The Public School Funding Model Preserves Racial Segregation</a> (2 pages)
   
 - <a href=""></a>
