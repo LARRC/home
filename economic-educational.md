@@ -2,9 +2,11 @@
 # Economic and educational disparities
 ### Click title for pdf:
 
-- <a href=""></a>
+- Economic
+  - <a href=""></a>
 
-- <a href=""></a>
+- Educational
+  - <a href=""></a>
 
 - <a href=""></a>
 
