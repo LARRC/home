@@ -8,7 +8,7 @@
   - Business Insider: <a href="">6 steps everyday people can take to close the wealth gap</a> (5 pages)
    - NYTimes: <a href="">Opinion | Banks Should Face History and Pay Reparations </a> (3-4 pages)
    
-  - *(Capitalism specifically)
+  - *(Capitalism specifically)*
     - Video: <a href="">Angela Davis: We can't eradicate racism without eradicating racial capitalism</a> (2:37)
     - The New Yorker: <a href="">Is capitalism racist?</a> (8 pages)
     
