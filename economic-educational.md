@@ -19,8 +19,6 @@
   
   - NPR: <a href="https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/07/07/888469809/how-funding-model-preserves-racial-segregation-in-public-schools">How The Public School Funding Model Preserves Racial Segregation</a> (2 pages)
   
-<! --- - <a href=""></a>
-- <a href=""></a> --!>
 
 ## Detailed discussion question doc [HERE](https://docs.google.com/document/d/1TdS8_imyBg4qw1W1u_eMtGpB4Uc6zJG7hTBhhEM9_uM/edit?usp=sharing): 
 
