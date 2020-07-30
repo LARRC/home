@@ -1,4 +1,4 @@
-## Materials for Week 6 (Sunday, July 26th, 4pm EDT)
+## Materials for Week 6 (Sunday, August 2nd, 5pm EDT)
 # Economic and educational disparities
 
 - **Economic**
