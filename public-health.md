@@ -9,11 +9,6 @@
 ### Climate
 - NYTimes: <a href="week7/black-bodies-green-spaces.pdf">Opinion | Black Bodies, Green Spaces</a> (3 pages)
 - Washington Post: <a href="week7/racism-hurting-climate-work.pdf">I'm a black climate expert. Racism is hurting my work.</a> (2 page)
-
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-  
 <br /><br />
 
 ## Detailed discussion question doc [HERE](): 
