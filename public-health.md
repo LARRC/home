@@ -3,7 +3,7 @@
 
 ### COVID-19
 - The New Yorker: <a href="week7/black-plague-newyorker.pdf">The Black Plague</a> (9 page)
-- Scientific American: <a href="week7/racism-not-race-as-risk-factor.pdf">Why Racism, Not Race, Is a Risk Factor for Dying of COVID-19</a>
+- Scientific American: <a href="week7/racism-not-race-as-risk-factor.pdf">Why Racism, Not Race, Is a Risk Factor for Dying of COVID-19</a> (4 pages)
 - NYTimes: <a href="https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html">The Fullest Look Yet at the Racial Inequity of Coronavirus</a> (with visualizations)
 
 ### Climate
