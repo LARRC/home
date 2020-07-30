@@ -13,5 +13,5 @@
 
 ## Detailed discussion question doc [HERE](): 
 <br /><br />
-Infographic:
+Infographic:<br />
 <a href="https://www.mphonline.org/racism-public-health/"><img src="https://www.mphonline.org/wp-content/uploads/2015/09/Racism-PublicHealth_AUG15.jpg" alt="Racism and Public Health" width="500" border="0" /></a><br />Source: <a href="https://www.mphonline.org/">MPHOnline.org</a>
