@@ -1,11 +1,15 @@
 ## Materials for Week 7 (Sunday, August 2nd, 5pm EDT)
 # Public Health
 
-- NYTimes: <a href="week7/black-bodies-green-spaces.pdf">Opinion | Black Bodies, Green Spaces</a> (3 pages)
+### COVID-19
 - The New Yorker: <a href="week7/black-plague-newyorker.pdf">The Black Plague</a> (9 page)
-- Washington Post: <a href="week7/racism-hurting-climate-work.pdf">I'm a black climate expert. Racism is hurting my work.</a> (2 page)
 - Scientific American: <a href="week7/racism-not-race-as-risk-factor.pdf">Why Racism, Not Race, Is a Risk Factor for Dying of COVID-19</a>
 - NYTimes: <a href="https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html">The Fullest Look Yet at the Racial Inequity of Coronavirus</a> (with visualizations)
+
+### Climate
+- NYTimes: <a href="week7/black-bodies-green-spaces.pdf">Opinion | Black Bodies, Green Spaces</a> (3 pages)
+- Washington Post: <a href="week7/racism-hurting-climate-work.pdf">I'm a black climate expert. Racism is hurting my work.</a> (2 page)
+
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
