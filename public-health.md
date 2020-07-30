@@ -9,9 +9,9 @@
 ### Climate
 - NYTimes: <a href="week7/black-bodies-green-spaces.pdf">Opinion | Black Bodies, Green Spaces</a> (3 pages)
 - Washington Post: <a href="week7/racism-hurting-climate-work.pdf">I'm a black climate expert. Racism is hurting my work.</a> (2 page)
-<br /><br />
+<br />
 
 ## Detailed discussion question doc [HERE](): 
-<br /><br />
+<br />
 Infographic:<br />
 <a href="https://www.mphonline.org/racism-public-health/"><img src="https://www.mphonline.org/wp-content/uploads/2015/09/Racism-PublicHealth_AUG15.jpg" alt="Racism and Public Health" width="500" border="0" /></a><br />Source: <a href="https://www.mphonline.org/">MPHOnline.org</a>
