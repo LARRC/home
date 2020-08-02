@@ -10,6 +10,7 @@
   - *(Optional: capitalism specifically)*
     - Video: <a href="https://www.youtube.com/watch?v=qhh3CMkngkY">Angela Davis: We can't eradicate racism without eradicating racial capitalism</a> (2:37)
     - The New Yorker: <a href="week6/is-capitalism-racist.pdf">Is capitalism racist?</a> (8 pages)
+    - Video: <a href="https://www.youtube.com/watch?v=JmyWvjszBOw">Boots Riley - How Capitalism Needed Racism To Operate (247HH Exclusive)</a>
     
 - **Educational**
   - The Seattle Times: <a href="week6/racism-ed-seattle.pdf">To understand structural racism, look to our schools</a> (8 pages)
