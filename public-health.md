@@ -1,4 +1,4 @@
-## Materials for Week 7 (Sunday, August 2nd, 5pm EDT)
+## Materials for Week 7 (Now Sunday, August 16th, 5pm EDT)
 # Public Health
 
 ### COVID-19
