@@ -24,9 +24,22 @@
 - LA Times: Indigenous groups, Black Lives Matter join forces to decry historical 'sins' on July 4  (<a href=''>pdf</a>, <a href='https://www.latimes.com/california/story/2020-07-04/indigenous-groups-black-lives-matters-join-forces-to-mark-historical-sins-on-july-4th'>web link</a>)
 - Cultural Revival: <a href="https://www.culturalsurvival.org/news/native-solidarity-black-lives-matter-both-communities-confront-centuries-long-state-violence">Native Solidarity with Black Lives Matter as Both Communities Confront Centuries-Long State Violence </a>
 
+### Latinx community
+- Colorado Public Radio: <a href="https://www.cpr.org/2020/07/09/they-are-marching-with-black-lives-matter-but-some-latinos-say-they-should-focus-on-themselves-instead/">Black Lives Matter Movement Spurs Discussions On Solidarity Within Latinx Community</a>
+- NYTimes article: <a href=''>Latinos Back Black Lives Matter Protests. They Want Change for Themselves, Too.</a>
+
+### Asian community
+- Time history article: <a href='https://time.com/5851792/asian-americans-black-solidarity-history/'>The Asian American Response to Black Lives Matter Is Part of a Long, Complicated History</a>
+- Chicago Tribune: <a href='https://www.chicagotribune.com/opinion/commentary/ct-opinion-george-floyd-black-lives-matter-immigrants-20200610-6ntznxzbnvcwzozzennfqh23p4-story.html'>Commentary: Why black lives matter to this Chinese immigrant</a>
+- Medium: <a href='https://medium.com/@dviyer/south-asians-and-black-lives-b30adaba6a42'>South Asians and Black Lives</a>
+- Resource list of webpages about Black/Asian solidarity, with emphases on different Asian communities: https://crossculturalsolidarity.com/black-asian-solidarity/
+
+### Immigrant community
+
+
 ### Palestine and other liberation movements
 - Transcribed interview: <a href="https://www.newframe.com/angela-davis-on-black-lives-matter/">Angela Davis on Black Lives Matter</a> (5-6 pgs)
 
+### Disability
+- 
 
-
-## Detailed discussion question doc [HERE](): 
