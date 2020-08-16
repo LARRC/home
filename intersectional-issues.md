@@ -5,6 +5,9 @@
 
 ### Feminism / #sayhername
 
+### LGBTQ+
+
+### Indigenous rights
 
 
 ## Detailed discussion question doc [HERE](): 
