@@ -41,5 +41,5 @@
 - Transcribed interview: <a href="https://www.newframe.com/angela-davis-on-black-lives-matter/">Angela Davis on Black Lives Matter</a> (5-6 pgs)
 
 ### Disability
-- 
+- The Guardian: <a href='https://www.theguardian.com/commentisfree/2020/jun/09/sandra-bland-eric-garner-freddie-gray-the-toll-of-police-violence-on-disabled-americans'>Sandra Bland, Eric Garner, Freddie Gray: the toll of police violence on disabled Americans</a>
 
