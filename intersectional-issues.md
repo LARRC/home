@@ -7,7 +7,7 @@
 '>What Is Intersectionality? A Brief History of the Theory</a>
 
 ### Feminism / #sayhername
-- Speech by Ella Baker, a largely overlooked contributor to the Civil Rights Movement: <a href="https://awpc.cattcenter.iastate.edu/2019/08/09/the-black-woman-in-the-civil-rights-struggle-1969/">"The Black Woman in the Civil Rights Struggle"</a>
+- Speech by Ella Baker, a largely overlooked female leader in the Civil Rights Movement: <a href="https://awpc.cattcenter.iastate.edu/2019/08/09/the-black-woman-in-the-civil-rights-struggle-1969/">"The Black Woman in the Civil Rights Struggle"</a>
 - Washington Post: <a>Opinion | Black Lives Matter isn’t complete without #SayHerName</a> (<a href="">pdf</a>, <a href="https://www.washingtonpost.com/opinions/2020/07/19/black-lives-matter-isnt-complete-without-sayhername/">web link</a>)
 
 ### Trans rights
