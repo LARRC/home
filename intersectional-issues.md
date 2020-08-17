@@ -34,9 +34,6 @@
 - Medium: <a href='https://medium.com/@dviyer/south-asians-and-black-lives-b30adaba6a42'>South Asians and Black Lives</a>
 - Resource list of webpages about Black/Asian solidarity, with emphases on different Asian communities: https://crossculturalsolidarity.com/black-asian-solidarity/
 
-### Immigrant community
-
-
 ### Palestine and other liberation movements
 - Transcribed interview: <a href="https://www.newframe.com/angela-davis-on-black-lives-matter/">Angela Davis on Black Lives Matter</a> (5-6 pgs)
 
