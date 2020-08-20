@@ -8,25 +8,26 @@
 
 ### Feminism / #sayhername
 - Speech by Ella Baker, a largely overlooked female leader in the Civil Rights Movement: <a href="https://awpc.cattcenter.iastate.edu/2019/08/09/the-black-woman-in-the-civil-rights-struggle-1969/">"The Black Woman in the Civil Rights Struggle"</a>
-- Washington Post: <a>Opinion | Black Lives Matter isn’t complete without #SayHerName</a> (<a href="">pdf</a>, <a href="https://www.washingtonpost.com/opinions/2020/07/19/black-lives-matter-isnt-complete-without-sayhername/">web link</a>)
+- Washington Post: <a href='week8/say-her-name.pdf'>Opinion | Black Lives Matter isn’t complete without #SayHerName</a> (<a href="">pdf</a>, <a href="https://www.washingtonpost.com/opinions/2020/07/19/black-lives-matter-isnt-complete-without-sayhername/">web link</a>)
+- Optional: <a href='week8/pink-hats-black-fists.pdf'>Pink Hats, Black Fists: The Role of Women in the Civil Rights Movement</a>
 
 ### Trans rights
 #### Please note that there is frequent mention of violence and murder of Black trans women in these articles
-- NYTimes: <a href="">Black Trans Women Seek More Space in the Movement They Helped Start</a>
+- NYTimes: <a href="week8/black-trans-women-nytimes.pdf">Black Trans Women Seek More Space in the Movement They Helped Start</a>
 - Them: <a href="https://www.them.us/story/six-black-trans-women-were-found-dead-in-nine-days">Six Black Trans Women Were Found Dead in Nine Days</a>
-- From Yes! Magazine: <a href="">Black Trans Women Are Being Killed. Could Paying Them Help Stop This?</a>
+- From Yes! Magazine: <a href="week8/yes-black-trans-women-pay.pdf">Black Trans Women Are Being Killed. Could Paying Them Help Stop This?</a>
 
 ### LGBTQ+
-- Washington Post article (a little outdated, 2016): <a href="">Black, queer, ignored: Why the LGBT community is divided on Black Lives Matter</a>
+- Washington Post article (a little outdated, 2016): <a href="week8/black-queer-ignored.pdf">Black, queer, ignored: Why the LGBT community is divided on Black Lives Matter</a>
 
 ### Indigenous rights
-- From Yes! Magazine: An Indigenous View on #BlackLivesMatter (<a href="">pdf</a>, <a href="https://www.yesmagazine.org/social-justice/2014/12/06/indigenous-view-black-lives-matter-leanne-simpson/">web link</a>)
-- LA Times: Indigenous groups, Black Lives Matter join forces to decry historical 'sins' on July 4  (<a href=''>pdf</a>, <a href='https://www.latimes.com/california/story/2020-07-04/indigenous-groups-black-lives-matters-join-forces-to-mark-historical-sins-on-july-4th'>web link</a>)
+- From Yes! Magazine: An Indigenous View on #BlackLivesMatter (<a href="week8/indigenous-view-blm.pdf">pdf</a>, <a href="https://www.yesmagazine.org/social-justice/2014/12/06/indigenous-view-black-lives-matter-leanne-simpson/">web link</a>)
+- LA Times: Indigenous groups, Black Lives Matter join forces to decry historical 'sins' on July 4  (<a href='week8/historical-sins.pdf'>pdf</a>, <a href='https://www.latimes.com/california/story/2020-07-04/indigenous-groups-black-lives-matters-join-forces-to-mark-historical-sins-on-july-4th'>web link</a>)
 - Cultural Revival: <a href="https://www.culturalsurvival.org/news/native-solidarity-black-lives-matter-both-communities-confront-centuries-long-state-violence">Native Solidarity with Black Lives Matter as Both Communities Confront Centuries-Long State Violence </a>
 
 ### Latinx community
 - Colorado Public Radio: <a href="https://www.cpr.org/2020/07/09/they-are-marching-with-black-lives-matter-but-some-latinos-say-they-should-focus-on-themselves-instead/">Black Lives Matter Movement Spurs Discussions On Solidarity Within Latinx Community</a>
-- NYTimes article: <a href=''>Latinos Back Black Lives Matter Protests. They Want Change for Themselves, Too.</a>
+- NYTimes article: <a href='week8/nytimes-latinos-blm.pdf'>Latinos Back Black Lives Matter Protests. They Want Change for Themselves, Too.</a>
 
 ### Asian community
 - Time history article: <a href='https://time.com/5851792/asian-americans-black-solidarity-history/'>The Asian American Response to Black Lives Matter Is Part of a Long, Complicated History</a>
