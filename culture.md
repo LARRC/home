@@ -9,7 +9,7 @@
 - James Baldwin: <a href='week9/baldwin-black-english.pdf'>If Black English Isn't a Language, Then Tell Me, What Is?</a>
 - Medium: <a href='week9/aave-memes.pdf'>The Connection Between Black English and Memes</a>
 
-### Some excellent videos!
+### Some excellent videos on language, racism, and power
 - TedX: <a href='https://www.youtube.com/watch?v=Bo3hRq2RnNI'>The Cost of Code Switching</a> (10 min)
 - <a href='https://www.youtube.com/watch?v=9iVOZ_-Xwrc&t=24s'>AAVE in elementary schools</a> (6 min)
 - TedX: <a href='https://www.youtube.com/watch?v=u4dc1axRwE4'>Why English Class is Silencing Students of Color | Jamila Lyiscott</a> (22 min_
