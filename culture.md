@@ -11,8 +11,8 @@
 
 ### Some excellent videos on language, racism, and power
 - TedX: <a href='https://www.youtube.com/watch?v=Bo3hRq2RnNI'>The Cost of Code Switching</a> (10 min)
-- <a href='https://www.youtube.com/watch?v=9iVOZ_-Xwrc&t=24s'>AAVE in elementary schools</a> (6 min)
-- TedX: <a href='https://www.youtube.com/watch?v=u4dc1axRwE4'>Why English Class is Silencing Students of Color | Jamila Lyiscott</a> (22 min_
+- Local news: <a href='https://www.youtube.com/watch?v=9iVOZ_-Xwrc&t=24s'>AAVE in elementary schools</a> (6 min)
+- TedX: <a href='https://www.youtube.com/watch?v=u4dc1axRwE4'>Why English Class is Silencing Students of Color | Jamila Lyiscott</a> (22 min)
 
 ### Appropriation of Black music
 - NYTimes: <a href='week9/stealing-black-music.pdf'>Why Is Everyone Always Stealing Black Music?</a>
