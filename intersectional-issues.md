@@ -1,5 +1,7 @@
 ## Materials for Week 8 (Now Sunday, August 23rd, 5pm EDT)
 # Intersectionality
+#### <a href='https://docs.google.com/document/d/1iDuxAz-J5SJIeltGXKXQvfNALycY7lC8aewqWTb-Aa0/edit?usp=sharing'>Discussion document</a>
+#### <a href='https://docs.google.com/forms/d/e/1FAIpQLSdl400jLR_IYZD1nBL-TDH4uCJ4U1MP8jGEExEI32zv8GGmnw/viewform?usp=sf_link'>Form for voting on a book</a>
 
 ### What is intersectionality?
 - TedTalk by Kimberle Crenshaw, who developed the theory of intersectionality: <a href="https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality">The Urgency of Intersectionality</a> (18 min)
