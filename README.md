@@ -35,7 +35,7 @@ A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen,
 5. [Protests and activism](./protests-activism) (Sunday, July 19th, 4pm EDT)
 6. [Economic and educational disparities](./economic-educational) (August 2nd, 5pm EDT)
 7. [Racism and public health](./public-health)
-8. **[Intersectional issues (feminism, LGBTQIA+, disability)](./intersectional-issues) (This week, August 23rd, 5pm EDT)**
-9. [Black culture as/in American culture](./culture)
+8. [Intersectional issues (feminism, LGBTQIA+, disability)](./intersectional-issues) (August 23rd, 5pm EDT)
+9. **[Black culture as/in American culture](./culture) (This week, August 30th, 5pm EDT)**
 
 ### If there is an article, paper, or video that you'd like to see on the schedule, there is a suggestion form [here](https://docs.google.com/forms/d/e/1FAIpQLScyaZFA2taOfanvy3K9iDuidK9czfUFNMC8EhedSmZ_47OfoA/viewform?usp=sf_link).
