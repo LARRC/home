@@ -32,6 +32,7 @@
 
 ### Asian community
 - NBCNews: <a href='week8/kamala-harris'>Kamala Harris is Asian and Black. That shouldn't be confusing in 2020 — but it is to some.</a>
+- Trevor Noah: <a href='https://www.youtube.com/watch?v=nkG6XVKPalM>Why You Shouldn’t Be Asking If Kamala Harris Is “Black Enough” | The Daily Social Distancing Show</a>
 
 ### Palestine and other liberation movements
 - Transcribed interview: <a href="https://www.newframe.com/angela-davis-on-black-lives-matter/">Angela Davis on Black Lives Matter</a> (5-6 pgs)
