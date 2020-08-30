@@ -31,7 +31,7 @@
 - Pew Research Center (statistics): <a href='pewsocialtrends.org/2015/06/11/chapter-7-the-many-dimensions-of-hispanic-racial-identity/'>The Many Dimensions of Hispanic Racial Identity</a>
 
 ### Asian community
-- <a href='week8/kamala-harris'>Kamala Harris is Asian and Black. That shouldn't be confusing in 2020 — but it is to some.</a>
+- NBCNews: <a href='week8/kamala-harris'>Kamala Harris is Asian and Black. That shouldn't be confusing in 2020 — but it is to some.</a>
 
 ### Palestine and other liberation movements
 - Transcribed interview: <a href="https://www.newframe.com/angela-davis-on-black-lives-matter/">Angela Davis on Black Lives Matter</a> (5-6 pgs)
