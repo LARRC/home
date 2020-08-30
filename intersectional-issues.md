@@ -23,9 +23,7 @@
 - Washington Post article (a little outdated, 2016): <a href="week8/black-queer-ignored.pdf">Black, queer, ignored: Why the LGBT community is divided on Black Lives Matter</a>
 
 ### Indigenous rights
-- From Yes! Magazine: An Indigenous View on #BlackLivesMatter (<a href="week8/indigenous-view-blm.pdf">pdf</a>, <a href="https://www.yesmagazine.org/social-justice/2014/12/06/indigenous-view-black-lives-matter-leanne-simpson/">web link</a>)
-- LA Times: Indigenous groups, Black Lives Matter join forces to decry historical 'sins' on July 4  (<a href='week8/historical-sins.pdf'>pdf</a>, <a href='https://www.latimes.com/california/story/2020-07-04/indigenous-groups-black-lives-matters-join-forces-to-mark-historical-sins-on-july-4th'>web link</a>)
-- Cultural Revival: <a href="https://www.culturalsurvival.org/news/native-solidarity-black-lives-matter-both-communities-confront-centuries-long-state-violence">Native Solidarity with Black Lives Matter as Both Communities Confront Centuries-Long State Violence </a>
+- Wikipedia: <a href='https://en.wikipedia.org/wiki/Black_Indians_in_the_United_States'>Black_Indians_in_the_United_States</a>
 
 ### Latinx community
 - Washington Post: <a href='week8/wapo-afrolatinos'>Some Afro-Latinos say the phrase ‘Latinos for Black Lives Matter’ makes no sense</a>
@@ -33,10 +31,8 @@
 - Pew Research Center (statistics): <a href='pewsocialtrends.org/2015/06/11/chapter-7-the-many-dimensions-of-hispanic-racial-identity/'>The Many Dimensions of Hispanic Racial Identity</a>
 
 ### Asian community
-- Time history article: <a href='https://time.com/5851792/asian-americans-black-solidarity-history/'>The Asian American Response to Black Lives Matter Is Part of a Long, Complicated History</a>
-- Chicago Tribune: <a href='https://www.chicagotribune.com/opinion/commentary/ct-opinion-george-floyd-black-lives-matter-immigrants-20200610-6ntznxzbnvcwzozzennfqh23p4-story.html'>Commentary: Why black lives matter to this Chinese immigrant</a>
-- Medium: <a href='https://medium.com/@dviyer/south-asians-and-black-lives-b30adaba6a42'>South Asians and Black Lives</a>
-- Resource list of webpages about Black/Asian solidarity, with emphases on different Asian communities: https://crossculturalsolidarity.com/black-asian-solidarity/
+- <a href='week8/kamala-harris'>
+Kamala Harris is Asian and Black. That shouldn't be confusing in 2020 — but it is to some.</a>
 
 ### Palestine and other liberation movements
 - Transcribed interview: <a href="https://www.newframe.com/angela-davis-on-black-lives-matter/">Angela Davis on Black Lives Matter</a> (5-6 pgs)
