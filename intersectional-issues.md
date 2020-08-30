@@ -28,8 +28,9 @@
 - Cultural Revival: <a href="https://www.culturalsurvival.org/news/native-solidarity-black-lives-matter-both-communities-confront-centuries-long-state-violence">Native Solidarity with Black Lives Matter as Both Communities Confront Centuries-Long State Violence </a>
 
 ### Latinx community
-- Colorado Public Radio: <a href="https://www.cpr.org/2020/07/09/they-are-marching-with-black-lives-matter-but-some-latinos-say-they-should-focus-on-themselves-instead/">Black Lives Matter Movement Spurs Discussions On Solidarity Within Latinx Community</a>
-- NYTimes article: <a href='week8/nytimes-latinos-blm.pdf'>Latinos Back Black Lives Matter Protests. They Want Change for Themselves, Too.</a>
+- Washington Post: <a href='week8/wapo-afrolatinos'>Some Afro-Latinos say the phrase ‘Latinos for Black Lives Matter’ makes no sense</a>
+- NPR Interview: <a href='https://www.npr.org/2020/07/02/886568058/the-afro-latinx-experience-black-lives-matter'>The Afro-Latinx Experience Is Essential To Our International Reckoning On Race</a> (44 min)
+- Pew Research Center (statistics): <a href='pewsocialtrends.org/2015/06/11/chapter-7-the-many-dimensions-of-hispanic-racial-identity/'>The Many Dimensions of Hispanic Racial Identity</a>
 
 ### Asian community
 - Time history article: <a href='https://time.com/5851792/asian-americans-black-solidarity-history/'>The Asian American Response to Black Lives Matter Is Part of a Long, Complicated History</a>
