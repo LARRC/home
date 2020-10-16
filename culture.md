@@ -2,7 +2,7 @@
 # Black culture as/in American culture
 
 ### Cultural appropriation
-- <a href="https://en.wikipedia.org/wiki/Cultural_appropriation">The Wikipedia article on cultural appropriation.</a> (I'm definitely not giving up by now. Just kidding.) The article is actually very comprehensive in terms of specific circumstances and views on cultural appropriation, and it's helpful to have all the subsections, so you can find what you're looking for. 
+- <a href="https://en.wikipedia.org/wiki/Cultural_appropriation">The Wikipedia article on cultural appropriation.</a> The article is actually very comprehensive in terms of specific circumstances and views on cultural appropriation, and it's helpful to have all the subsections, so you can find what you're looking for. 
 
 ### AAVE/BVE
 - <a href='https://en.wikipedia.org/wiki/African-American_Vernacular_English'>The Wikipedia article on African American Vernacular English</a>
